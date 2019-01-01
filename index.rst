@@ -32,6 +32,7 @@ new information overtime.
 
    events/career_fair_dinner
    events/recruitment_drive
+   events/minerlan
 
 
 

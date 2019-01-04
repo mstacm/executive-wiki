@@ -29,6 +29,7 @@ Transition Steps
    cannot access it, open in incognito mode).
 3. Give the access to `bitwarden account <http://bitwarden.com/>`_ and
    keypass.
+4. Add to ACM Global Account.
 
 General Tips
 ------------

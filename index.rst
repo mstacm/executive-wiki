@@ -25,6 +25,7 @@ new information overtime.
    :caption: Role Documentation
 
    roles/president
+   roles/treasurer
 
 .. toctree::
    :maxdepth: 2

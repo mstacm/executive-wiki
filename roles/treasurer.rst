@@ -22,10 +22,11 @@ Transition Steps
 6. Give the access to `bitwarden account <http://bitwarden.com/>`_ and
    keypass.
 7. Add Future Treasurer to offical ACM Global Account
-   
+
 Bank Accounts
 -------------
 ACM currently has 3 bank accounts, 2 of which are through the school
+
 Phelps County Bank Account
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 Phelps County Bank is one of the local banks around Phelps County. By school roles we aren't technically supposed to have a external bank account. However, it has been a common practice for Missouri S&T Organizations for a while now.
@@ -40,6 +41,7 @@ Most of the Treasurer's job can be done on a computer. The password for the Phel
 School Account
 ^^^^^^^^^^^^^^
 Every school organization has a bank account within the school. It's actually just one large bank account for all the student orgs and the school keeps track of which org owes and has what amount. Whoever is in charge of it, be nice to them. This person can save you in the most dire scenarios. We try to avoid putting money in the school account because there are limitations.
+
 + **Checking the Account** - You can either go to the office of whoever manages school accounts, or the amount in the account can be checked on orgsync. Go to ACM -> More -> Treasurery -> Checkbooks to see the amount and the MOCode for the account.
 + **MoCode** - The mocode is what is used to access the account within the school. Certain entities (companies, school departments) can donate or charge the ACM account with the proper MoCode. If anyone needs the MoCode, they will specifically ask for it
 + **Purchasing** - In order to purchase something with the school account you either borrow a bank card or get receipt reimbursements from the school employee who manages studnet Organization accounts. ACM is sometimes restricted on what we can spend, remember to read the rules.
@@ -58,6 +60,7 @@ Once you have finalized what everyone needs add things into the form that ACM ma
 Then SAFB reviews the form and decides on what funds to approve based on the pool of funds they have received from the school. 
 The last step is when student council approves the form (it never gets denied) and the money is now accessible through the person who is in charge of student organization finances.
 In short terms:
+
 1. Ask SIG's what they want
 2. Fill out form
 3. Adjust form so it looks like we're asking for < 50% of our budget plan
@@ -65,11 +68,12 @@ In short terms:
 5. Submit form
 6. Wait for student council review and approval
 
-
 This must be done every semester.
+
 + **Funding Restrictions** - SAFB has a list of restrictions that they cannot fund. They will point them out if you have included them when the SAFB representative goes over the form with you.
 + **Using SAFB Money** - Go to the school employee in charge of student organization finances. They will tell you to do receipt reimbursements or give you a card based on what you are doing.
 + **Where everything is** - Rules, forms, etc are all `here <https://sites.google.com/a/mst.edu/safb/home>`_ . This is your new bible, read it, breathe it, and remember as much as you can from it. The forms we need are under "EFC Applications".
+
 There are many different SAFB Forms:
 
 Club Appropriations

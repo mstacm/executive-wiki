@@ -22,6 +22,12 @@ new information overtime.
 
 .. toctree::
    :maxdepth: 2
+   :caption: General Information
+
+   general/marketing
+
+.. toctree::
+   :maxdepth: 2
    :caption: Role Documentation
 
    roles/president

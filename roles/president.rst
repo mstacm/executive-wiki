@@ -23,13 +23,13 @@ Roles and Responsibilities
 Transition Steps
 ----------------
 1. Email companies and introduce the main point of contact to the new President.
-   **TODO**: Add a contact list.
 2. Add the to the `ACM Team Drive
    <https://drive.google.com/drive/u/0/folders/0ACRic8oZ2IZ4Uk9PVA>`_ (if you
    cannot access it, open in incognito mode).
 3. Give the access to `bitwarden account <http://bitwarden.com/>`_ and
    keypass.
 4. Add to ACM Global Account.
+5. Add to the Figma 'Missouri S&T ACM' group.
 
 General Tips
 ------------
@@ -97,7 +97,7 @@ Summer
   jobs. Look at the :ref:`events-career-fair-dinner` section for more specific
   detials.
 + **Talks** - ACM should attempt to get 3 companies talks for the months of
-  September, October, and November. **TODO**: Add secion on ACM Talks
+  September, October, and November.
 + **Develop a Fall Semester Plan** - Loosly determine month by month what you
   want to accomplish and talk about over the months to develop a rough plan for
   the semester.

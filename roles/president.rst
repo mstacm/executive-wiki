@@ -20,6 +20,8 @@ Roles and Responsibilities
   primary effort on how to innovate ACM whether through creating new events,
   updating old events, coming up with new ideas, or anything else.
 
+.. _roles-president-transition:
+
 Transition Steps
 ----------------
 1. Email companies and introduce the main point of contact to the new President.
@@ -30,6 +32,12 @@ Transition Steps
    keypass.
 4. Add to ACM Global Account.
 5. Add to the Figma 'Missouri S&T ACM' group.
+6. Introduce the new president to Rhonda Grayson, Elaina Manson, and Dawn Davis.
+7. Update Orgsync with all of the latest roles.
+8. Acquire an `ACM Global Membership
+   <https://campus.acm.org/public/qj/quickjoin/qj_control.cfm?promo=PWEBTOP&form_type=Student>`_.
+   It is $19 dollars for students. The President, Vice President, and Treasurer
+   are required to be ACM Global members.
 
 General Tips
 ------------
@@ -112,6 +120,23 @@ August
   :ref:`events-recruitment-drive` section.
 + **Budgets** - Work with the treasurer and the SIGs to build a budget for all
   of ACM.
++ **RSO Leadership Summit** - The President and one other officer (Vice
+  President or Treasurer) must attent Student Life's RSO leadership officer
+  summit. The summit teaches you how to be an RSO, what to avoid, and who is
+  important in Student life. You **MUST** attend or ACM is no longer an RSO.
+  John Gallager should send you an email about it at the very beginning of the
+  semester or earlier.
++ **Annual Report** - Login to the `ACM Chapter Interface
+  <https://www.acm.org/chapters/chapters/interface>`_ with the credentials in
+  bitwarden and fill out the annual budget report (with the help of the
+  Treasurer) and update the rosters and officers list. You will need the ACM
+  member numbers of the president, VP, and the treasurer (which means all three
+  need to be national ACM members). See :ref:`roles-president-transition` for
+  more details.
++ **Large Event Planning** - At the initial meeting of the semester, be sure to
+  plan the dates for ACM's 'major' events. These include MegaMinerAI, SIG
+  Security Cantenna build, MinerLAN, Programming Competition, career fair
+  dinners, and tech talks from various companies.
 
 September
 ^^^^^^^^^
@@ -162,7 +187,8 @@ December
 Christmas Break
 ^^^^^^^^^^^^^^^
 + **Career Fair Dinner** - Review the companies attending the spring career
-  fair and email any looking for computer science / computer engineering roles. 
+  fair and email any looking for computer science / computer engineering roles.
+  Send out invitations for companies to attend the dinner.
 + **ACM Talks** - ACM should attempt to get 3 talks for February, March, and
   April.
 + **Sponsorship** - Re-email any company who told you to get back to them next

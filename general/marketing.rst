@@ -15,6 +15,8 @@ around the pertaint school buildings so that students can be made.
    Missouri S&T logo somewhere on that flier. Moreover, before you hang up a 
    flyer in any building, be sure to ask the front office for permission.
 
+.. _general-marketing-distribution:
+
 Distributing Flyers
 ^^^^^^^^^^^^^^^^^^^
 1. **CSTask** - You can send your flyers to cstask (email maintained by the CS

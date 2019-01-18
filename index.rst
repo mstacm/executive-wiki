@@ -25,6 +25,7 @@ new information overtime.
    :caption: General Information
 
    general/marketing
+   general/sponsorship
 
 .. toctree::
    :maxdepth: 2
@@ -37,6 +38,7 @@ new information overtime.
    :maxdepth: 2
    :caption: Events
 
+   events/tech_talks
    events/career_fair_dinner
    events/recruitment_drive
    events/minerlan

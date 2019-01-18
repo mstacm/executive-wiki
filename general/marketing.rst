@@ -61,9 +61,15 @@ When you are finished, you can export the design to:
    **4x** or greater (the **4x** or greater makes the image have a very high
    resolution).
 
+.. image:: imgs/figma_export_full.png
+   :alt: Figma Export Full
+   :scale: 35%
+   :align: center
+
+
 .. image:: imgs/figma_export.png
    :alt: Figma Export
-   :scale: 35%
+   :scale: 50%
    :align: center
 
 2. (**Linux** and **Mac**) Use the tool ``convert`` to change png to pdf.

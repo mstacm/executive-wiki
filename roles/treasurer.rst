@@ -5,18 +5,18 @@ Roles and Responsibilities
 --------------------------
 + **Bank Account Management** - Check all bank accounts and make sure all transactions make sense. The Treasurer also is in charge of switching people in and out of the account when officers change.
 + **SAFB Forms** - Know when the deadlines for the SAFB forms are and fill them out in time. The Treasurer must consult with every SIG to see what they want or need for the semester or year.
-+ **Food Ordering** - Order food when needed for events, whether to order food is a call that is made by the Treasurer.
++ **Food Ordering** - Order food when needed for events
 + **Online Subscription Accounts** - ACM has many accounts that require subscriptions, make sure that the right amount is being charged.
 + **Fundraising** - Work with the president to find funding
 + **Spending and Saving** - Find ways to save money but at the same time making sure ACM has the neccesary resources.
-+ **Write Annual Student Chapter Report** - A lengthy budget and events report that solidifies our status as a chapter of ACM every year
++ **Annual Student Chapter Report** - A lengthy budget and events report that solidifies our status as a chapter of ACM every year
 + **Stripe and Square** - ACM uses two electronic payment systems, you are in charge of both 
 
 Transition Steps
 ----------------
 1. Give a personal run down of how the Treasurer role works. Personally go thorugh the transition documents.
 2. Give an overview of how to fill out the SAFB form
-3. Shoe where Gracie's office is and if possible introduce
+3. Show where Gracie's office is
 4. Add the future Treasurer to the Phelps County Bank Account
 5. Add the to the `ACM Team Drive
    <https://drive.google.com/drive/u/0/folders/0ACRic8oZ2IZ4Uk9PVA>`_ (if you

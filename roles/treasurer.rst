@@ -102,6 +102,7 @@ The annual report is fairly self-explanatory. If you already have an ongoing mai
 Stripe and Square
 -----------------
 Stripe and Square are our main mediums for electronic payments.
+
 + We prefer to use Stripe since we get a non-profit discount on transaction fees
 + As of January 27th, 2019, Stripe takes out 3.5% for American Express transactions and 2.2% \+ \$0.30 for everything else
 + As of January 27th, 2019, Square takes out 2.75% of all transactions
@@ -114,6 +115,7 @@ Stripe and Square are our main mediums for electronic payments.
 Non-Profit Status
 -----------------
 ACM, as a global organization, is a 501(c)(3) non-profit organization. As a result, our local chapter gets to benefit from that status as well. A 501(c)(3) organization simply means that the money stays internally within the organization. There a bunch of other legal mumbo-jumbo but I'll leave that to you to read. 
+
 + We do not need non-profit status from the school since we already have it from ACM
 + If you ever need our EIN number (basically a social security number for companies), you can find it in the ACM Global Account.
 + We have 2 EIN number because ACM Global gave chapters a fresh set of number at one point

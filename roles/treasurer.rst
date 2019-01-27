@@ -9,6 +9,8 @@ Roles and Responsibilities
 + **Online Subscription Accounts** - ACM has many accounts that require subscriptions, make sure that the right amount is being charged.
 + **Fundraising** - Work with the president to find funding
 + **Spending and Saving** - Find ways to save money but at the same time making sure ACM has the neccesary resources.
++ **Write Annual Student Chapter Report** - A lengthy budget and events report that solidifies our status as a chapter of ACM every year
++ **Stripe and Square** - ACM uses two electronic payment systems, you are in charge of both 
 
 Transition Steps
 ----------------
@@ -93,6 +95,31 @@ Budget Management
 The Treasurer is responsible for budgeting and trying to create an accurate budget. ACM is kind of all of the place a lot of times so don't expect to make a hard budget. But try to project the spendings for the year/semester.
 All the documents that have already been done are in the Google Drive. 
 
+Annual Student Chapter Report
+-----------------------------
+The annual report is fairly self-explanatory. If you already have an ongoing maintained budget document, you are already half way there. The report will ask for event ACM is holding, events ACM will be holding in the future, number of members, budget, the current amount of money our chapter has, and a few similar things like that. The report is usually due sometime in the summer, but it is highly recommended you get it done with as soon as possible. When it is time to write a report, maybe ACM Global will send out an email, maybe not. I recommend checking the ACM Global account once in a while and look for the "submit report" button.
+
+Stripe and Square
+-----------------
+Stripe and Square are our main mediums for electronic payments.
++ We prefer to use Stripe since we get a non-profit discount on transaction fees
++ As of January 27th, 2019, Stripe takes out 3.5% for American Express transactions and 2.2% \+ \$0.30 for everything else
++ As of January 27th, 2019, Square takes out 2.75% of all transactions
++ The only reason you should be using Square is if you need to use a card reader to swip a card on the spot, the card reader should be in the cash box
++ There are times where using the card reader is more optimal for an event, you can be the judge of that
++ Stripe has to be integrated into a website or you can send invoices
++ Stripe invoices are useful because they're professional and easy
++ For Stripe invoices you simply just add the person you want to charge to the customer list and then fill out an invoice
+
+Non-Profit Status
+-----------------
+ACM, as a global organization, is a 501(c)(3) non-profit organization. As a result, our local chapter gets to benefit from that status as well. A 501(c)(3) organization simply means that the money stays internally within the organization. There a bunch of other legal mumbo-jumbo but I'll leave that to you to read. 
++ We do not need non-profit status from the school since we already have it from ACM
++ If you ever need our EIN number (basically a social security number for companies), you can find it in the ACM Global Account.
++ We have 2 EIN number because ACM Global gave chapters a fresh set of number at one point
++ If you find anywhere that uses the old ACM EIN number, please change it to the new onw
++ If a service ever asks for proof of non-profit status, there is a letter from an ACM representative in the Google Drive under "Administration"
+
 Tips and Tricks
 ---------------
 + You can reword item names in the SAFB forms to something that is accepted (i.e change "meeting food" to "LAN Training Lunch"
@@ -102,5 +129,6 @@ Tips and Tricks
 + Get each SIG to give you a budget plan to make your job easier.
 + Use past forms or documents to help you create new documents, the documents don't change very often
 + Stay on good terms with anybody that holds your money (the bank, the person in charge of all school organization finances). Your relationship with them could turn a helpless task possible.
-
++ Keep on your toes, your job will change depending on new tech, SIG requests, infrastructure change, event changes, etc.
++ Know how to pivot, learn quickly, and be crafty
 

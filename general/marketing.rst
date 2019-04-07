@@ -93,3 +93,21 @@ We are working on acquiring a `8', all over print, 3 sided custom tablecloth
 Check back for furthur details.
 
 
+Lessons Learned
+---------------
+We are called S&T ACM.
+This is because of the Missouri S&T branding committee's rules.
+When making marketing materials, be sure to always adhear to the very strict
+rules made by the branding team.
+If you have questions, contact the branding committee by email or in their
+office.
+
++ MST is only acceptable in URLs and email addresses.
+  - Use SandT for any cases in which you do not have access to the ampersand
+  character. (Twitter, Facebook)
++ Don't use any Missouri S&T branding on S&T ACM T-Shirts unless you plan to
+  discuss with branding first.
++ Missouri S&T might try to force S&T ACM to switch its websites to Wordpress
+  again at some point.
+  Do not entertain this idea.
+  Contact Dr. Patrick Taylor for advice in this regard.

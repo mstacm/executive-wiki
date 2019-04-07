@@ -32,6 +32,7 @@ new information overtime.
    :caption: Role Documentation
 
    roles/president
+   roles/vicepresidentinternal
    roles/treasurer
    roles/hack_chair
    roles/acmw_chair

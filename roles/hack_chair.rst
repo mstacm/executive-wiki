@@ -18,7 +18,7 @@ Roles and Responsibilities
   innovate ACM Hack.
 
 Election Process
-================
+----------------
 + Elections will occur once per academic year during the
   spring semester.
 + Nominations and voting will happen during the last meeting

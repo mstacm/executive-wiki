@@ -33,6 +33,7 @@ new information overtime.
 
    roles/president
    roles/treasurer
+   roles/hack_chair
 
 .. toctree::
    :maxdepth: 2

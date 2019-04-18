@@ -93,12 +93,12 @@ We are working on acquiring a `8', all over print, 3 sided custom tablecloth
 Check back for furthur details.
 
 
-Lessons Learned
----------------
+Missouri S&T Branding Guidelines
+--------------------------------
 We are called S&T ACM.
 This is because of the Missouri S&T branding committee's rules.
 When making marketing materials, be sure to always adhear to the very strict
-rules made by the branding team.
+rules made by the `branding team <https://brand.mst.edu/>`_.
 If you have questions, contact the branding committee by email or in their
 office.
 

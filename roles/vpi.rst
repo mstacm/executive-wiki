@@ -9,7 +9,6 @@ Roles and Responsibilities
   Take thorough notes at the Executive meetings and make them available to all
   members of the board.
   Try to find ways to make the ship sail smoother.
-  The roles of the VP-I work to this end.
 + **Communicate** -
   The VP-I must be the point of contact for committees.
   Keep track of deadlines, membership, and keep a model of each committee's
@@ -35,10 +34,8 @@ Roles and Responsibilities
   This includes announcments, scheduling, vote proceedings, and counting votes.
   Do so ethically, as you will be checked.
 + **Plan Events** -
-  The Vice President External (VP-E) is in charge of sponsor related events.
-  The VP-I is thus in charge of non-sponsor related events.
-  Any non-corporate ACM or committee-independant events will be planned and
-  organized by the VP-I.
+  The Vice President External (VP-E) is in charge of all ACM events.
+  The VPI should ensure the VPE has all the help they need to handle events
 + **Be Accessible** -
   The VP-I and VP-E are the President's strongest allies.
   Be available and helpful to anyone in the Executive Board when possible, as it
@@ -73,7 +70,7 @@ Parliamentarian Tasks
 2. Make sure conversations stay on topic, if the group gets off track, remind
    the Board to get back on topic.
    If that does not work, the President and VP-I's job is to enact Robert's
-   Rules of Order with the safe-word "lavender".
+   Rules of Order.
    Speak this and make it known that the rules are in place now if the Board
    does not understand or comply.
 3. Interrupt if members of the Board are not being allowed to speak.

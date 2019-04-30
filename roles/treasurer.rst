@@ -1,4 +1,4 @@
-Treasurer 
+Treasurer
 =========
 
 Roles and Responsibilities
@@ -10,7 +10,7 @@ Roles and Responsibilities
 + **Fundraising** - Work with the president to find funding
 + **Spending and Saving** - Find ways to save money but at the same time making sure ACM has the neccesary resources.
 + **Annual Student Chapter Report** - A lengthy budget and events report that solidifies our status as a chapter of ACM every year
-+ **Stripe and Square** - ACM uses two electronic payment systems, you are in charge of both 
++ **Stripe, Square, and Venmo** - ACM uses three electronic payment systems, you are in charge of them all.
 
 Transition Steps
 ----------------
@@ -38,7 +38,7 @@ Most of the Treasurer's job can be done on a computer. The password for the Phel
 + **Accounts within the Account** - Our bank account is currently separated into 2 division: ACM and PickHacks
 + **Bank Card** - ACM currently has 2 Bank Cards, one for each Account (ACM and Pickhacks). SIG-Hack is responsible for the Pickhacks card while you are responsible for the ACM card. It's resting home is within the cash box. The Treasurer should know where the card is at all times.
 + **Check Book** - ACM has one check book, it belongs in the cash box. No one, for any reason, should need to take the check book out of the cash box but you. The Treasurer wlil sign all the checks. If we need more checks, simply talk to someone at a physical Phelps County Bank Location
-+ **If You Ever Get Lost** - Talk to someone that works at Pheps County Bank, they are nice people and know that you are a lost college student (and are used to them).
++ **If You Ever Get Lost** - Talk to someone that works at Phelps County Bank, they are nice people and know that you are a lost college student (and are used to them).
 
 School Account
 ^^^^^^^^^^^^^^
@@ -58,15 +58,15 @@ SAFB
 SAFB stands for Student Activity Finance Board, but you don't have to remember that (nobody does). Every semester the school gives a chance for student organizations to apply for funding provided by the school. The school proportions a large chunk of money just for student organizations that is distributed sometime half-way through the semester.
 You will be required to attend a session presented by SAFB on what you need to do to fill out the form and changes that have been made that semester.
 The Treasurer's job is to go to each SIG and ask if the SIG needs or wants anything to function. Everything needs to be filled out on the SAFB Form.
-Once you have finalized what everyone needs add things into the form that ACM may want but we know the school will not fund. Once done, the Treasurer must make an appointment with a SAFB representative. Once the SAFB representative ok's the form submit the form. 
-Then SAFB reviews the form and decides on what funds to approve based on the pool of funds they have received from the school. 
+Once you have finalized what everyone needs add things into the form that ACM may want but we know the school will not fund. Once done, the Treasurer must make an appointment with a SAFB representative. Once the SAFB representative ok's the form submit the form.
+Then SAFB reviews the form and decides on what funds to approve based on the pool of funds they have received from the school.
 The last step is when student council approves the form (it never gets denied) and the money is now accessible through the person who is in charge of student organization finances.
 In short terms:
 
 1. Ask SIG's what they want
 2. Fill out form
 3. Adjust form so it looks like we're asking for < 50% of our budget plan
-4. Get form reviewed by SAFb representative
+4. Get form reviewed by SAFB representative
 5. Submit form
 6. Wait for student council review and approval
 
@@ -93,15 +93,15 @@ Equipment Contingency
 Budget Management
 -----------------
 The Treasurer is responsible for budgeting and trying to create an accurate budget. ACM is kind of all of the place a lot of times so don't expect to make a hard budget. But try to project the spendings for the year/semester.
-All the documents that have already been done are in the Google Drive. 
+All the documents that have already been done are in the Google Drive.
 
 Annual Student Chapter Report
 -----------------------------
 The annual report is fairly self-explanatory. If you already have an ongoing maintained budget document, you are already half way there. The report will ask for event ACM is holding, events ACM will be holding in the future, number of members, budget, the current amount of money our chapter has, and a few similar things like that. The report is usually due sometime in the summer, but it is highly recommended you get it done with as soon as possible. When it is time to write a report, maybe ACM Global will send out an email, maybe not. I recommend checking the ACM Global account once in a while and look for the "submit report" button.
 
-Stripe and Square
+Stripe, Square, and Venmo
 -----------------
-Stripe and Square are our main mediums for electronic payments.
+Stripe, Square, and Venmo are our main mediums for electronic payments.
 
 + We prefer to use Stripe since we get a non-profit discount on transaction fees
 + As of January 27th, 2019, Stripe takes out 3.5% for American Express transactions and 2.2% \+ \$0.30 for everything else
@@ -111,10 +111,11 @@ Stripe and Square are our main mediums for electronic payments.
 + Stripe has to be integrated into a website or you can send invoices
 + Stripe invoices are useful because they're professional and easy
 + For Stripe invoices you simply just add the person you want to charge to the customer list and then fill out an invoice
++ Venmo is primarily used for refunding members, but that was something that was just recently utilized so feel free to use it how you see fit.
 
 Non-Profit Status
 -----------------
-ACM, as a global organization, is a 501(c)(3) non-profit organization. As a result, our local chapter gets to benefit from that status as well. A 501(c)(3) organization simply means that the money stays internally within the organization. There a bunch of other legal mumbo-jumbo but I'll leave that to you to read. 
+ACM, as a global organization, is a 501(c)(3) non-profit organization. As a result, our local chapter gets to benefit from that status as well. A 501(c)(3) organization simply means that the money stays internally within the organization. There a bunch of other legal mumbo-jumbo but I'll leave that to you to read.
 
 + We do not need non-profit status from the school since we already have it from ACM
 + If you ever need our EIN number (basically a social security number for companies), you can find it in the ACM Global Account.

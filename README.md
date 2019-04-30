@@ -12,6 +12,10 @@ pip install pipenv
 cd <github-repo>/
 pipenv shell
 ```
++ Install dependencies
+```
+pipenv install
+```
 + Build the documentation
 ```
 make html

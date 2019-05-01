@@ -96,8 +96,8 @@ General Preperation
 
 1 Week Before
 ^^^^^^^^^^^^^
-+ **Distribute the Flyer** - See the :ref:`general-marketing-distribution`
-  section for more information.
++ **Distribute the Flyer** - See the
+  :ref:`general-marketing_and_branding-resources` section for more information.
 + **Create Check-In Form** - See the :ref:`events-tech_talks-signin` secction
   for more information.
 + **Create Event Slideshow** - See the :ref:`events-tech_talks-create` section

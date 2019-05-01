@@ -7,7 +7,7 @@ ACM Executive Wiki
 ==================
 Welcome to the **ACM Executive Wiki**! This wiki provides ACM Executives with
 resources to help run ACM events, manage administrative tasks, and general
-questions about ACM. 
+questions about ACM.
 
 The wiki has been created in an effort to remove the amount of information ACM
 Executives need to 'just know' when starting. One of the hardest part about
@@ -24,7 +24,7 @@ new information overtime.
    :maxdepth: 2
    :caption: General Information
 
-   general/marketing
+   general/marketing_and_branding
    general/sponsorship
 
 .. toctree::
@@ -45,9 +45,7 @@ new information overtime.
    events/career_fair_dinner
    events/recruitment_drive
    events/minerlan
-
-
-
+   events/tshirt_design_contest
 
 
 Indices and tables

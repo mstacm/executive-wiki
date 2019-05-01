@@ -1,5 +1,5 @@
 ACM Hack Chair
-==========
+==============
 
 Roles and Responsibilities
 --------------------------

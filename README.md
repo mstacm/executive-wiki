@@ -1,5 +1,7 @@
 # executive-wiki
-Wiki for ACM Executive Board to help with running ACM.
+Wiki for ACM Executive Board to help with running ACM. The live version can be
+found at
+[http://executive-wiki.readthedocs.io](http://executive-wiki.readthedocs.io).
 
 ## Building the Documentation
 + Install [Python 3](https://www.python.org/downloads/)

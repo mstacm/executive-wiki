@@ -100,7 +100,7 @@ Annual Student Chapter Report
 The annual report is fairly self-explanatory. If you already have an ongoing maintained budget document, you are already half way there. The report will ask for event ACM is holding, events ACM will be holding in the future, number of members, budget, the current amount of money our chapter has, and a few similar things like that. The report is usually due sometime in the summer, but it is highly recommended you get it done with as soon as possible. When it is time to write a report, maybe ACM Global will send out an email, maybe not. I recommend checking the ACM Global account once in a while and look for the "submit report" button.
 
 Stripe, Square, and Venmo
------------------
+-------------------------
 Stripe, Square, and Venmo are our main mediums for electronic payments.
 
 + We prefer to use Stripe since we get a non-profit discount on transaction fees
@@ -134,4 +134,3 @@ Tips and Tricks
 + Stay on good terms with anybody that holds your money (the bank, the person in charge of all school organization finances). Your relationship with them could turn a helpless task possible.
 + Keep on your toes, your job will change depending on new tech, SIG requests, infrastructure change, event changes, etc.
 + Know how to pivot, learn quickly, and be crafty
-

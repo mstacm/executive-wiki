@@ -98,6 +98,11 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
+# Favicon. If given, this must be the name of an image file (path relative to the
+# configuration directory) that is the favicon of the docs. Modern browsers use
+# this as the icon for tabs, windows and bookmarks. It should be a Windows-style
+# icon file (.ico), which is 16x16 or 32x32 pixels large.
+html_favicon = "favicon-32x32.png"
 
 # -- Options for HTMLHelp output ---------------------------------------------
 

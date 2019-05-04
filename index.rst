@@ -41,10 +41,11 @@ new information overtime.
    :maxdepth: 2
    :caption: Events
 
-   events/tech_talks
    events/career_fair_dinner
-   events/recruitment_drive
+   events/minerama
    events/minerlan
+   events/recruitment_drive
+   events/tech_talks
    events/tshirt_design_contest
 
 

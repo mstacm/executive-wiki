@@ -11,7 +11,7 @@ General Preperation
 -------------------
 2 Weeks Before
 ^^^^^^^^^^^^^^
-+ **Presentation** - Each SIG should develop or update a 5-7 recruitment
++ **Presentation** - Each SIG should develop or update a 5-7 minute recruitment
   presentation about their SIG.
 + **Room Reservation** - Reserve the room. We usually use Toomey 199 in Fall and
   CS 207 in the Spring.

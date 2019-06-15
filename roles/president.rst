@@ -24,20 +24,26 @@ Roles and Responsibilities
 
 Transition Steps
 ----------------
-1. Email companies and introduce the main point of contact to the new President.
-2. Add the to the `ACM Team Drive
-   <https://drive.google.com/drive/u/0/folders/0ACRic8oZ2IZ4Uk9PVA>`_ (if you
-   cannot access it, open in incognito mode).
-3. Give the access to `bitwarden account <http://bitwarden.com/>`_ and
-   keypass.
-4. Add to ACM Global Account.
-5. Add to the Figma 'Missouri S&T ACM' group.
-6. Introduce the new president to Rhonda Grayson, Elaina Manson, and Dawn Davis.
-7. Update Orgsync with all of the latest roles.
-8. Acquire an `ACM Global Membership
+1. Email company representatives and introduce the new President.
+2. Give the new President access to:
+
+   + `bitwarden account <http://bitwarden.com/>`_
+   + `Figma 'Missouri S&T ACM' group <https://www.figma.com/files/team/589872507489464817/Missouri-S%26T-ACM>`_
+   + `Orgsync <https://orgsync.com/66165/chapter>`_
+   + Discord Servers (ACM General, etc.)
+   + manager to the ACM Google Groups such as `ACM Executives
+     <https://groups.google.com/a/mst.edu/forum/#!forum/acm-executives-grp>`_
+
+4. Add new President to ACM Global chapter interface as an officer.
+5. Introduce the new president to CS Office staff.
+
+First Steps
+------------
+1. Acquire an `ACM Global Membership
    <https://campus.acm.org/public/qj/quickjoin/qj_control.cfm?promo=PWEBTOP&form_type=Student>`_.
    It is $19 dollars for students. The President, Vice President, and Treasurer
    are required to be ACM Global members.
+2. Update Orgsync with all of the latest roles.
 
 General Tips
 ------------
@@ -94,9 +100,9 @@ that tasks and events are properly planned for.
 Summer
 ^^^^^^
 + **Sponsorships** - Q1 (January) and Q3 (August) are the primary times that
-  companies look for sponsorship opportunities due to budgeting. You should 
-  spend a lot of time reaching out to companies to acquire sponsorships that 
-  meet your projected funding goals. Before the summer is over, you should have 
+  companies look for sponsorship opportunities due to budgeting. You should
+  spend a lot of time reaching out to companies to acquire sponsorships that
+  meet your projected funding goals. Before the summer is over, you should have
   ideally secured 5,000+ in funding.
 + **Career Fair Dinner** - If unfamiliar, please look at the
   :ref:`events-career-fair-dinner` section. Take a look at the companies
@@ -160,7 +166,7 @@ October
 ^^^^^^^
 + **Try out a New Event** - Since it is right in the center, October would be a
   good time to trial run a new event. See if you can come up with something
-  creative for a small amount of money that will attract new people. 
+  creative for a small amount of money that will attract new people.
 + **Review How September Went** - Did the companies enjoy the talks and the
   career fair dinner? What can we do next time to make sure things run smoother?
   Is there anything that could improve on to attract more companies or people?

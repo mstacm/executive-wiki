@@ -27,6 +27,15 @@ new information overtime.
    general/marketing_and_branding
    general/sponsorship
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Officers
+
+   officers/onboarding_offboarding
+   officers/reflections
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Role Documentation

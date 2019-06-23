@@ -32,7 +32,7 @@ new information overtime.
    :maxdepth: 2
    :caption: Officers
 
-   officers/onboarding_offboarding
+   officers/general_procedure
    officers/reflections
 
 

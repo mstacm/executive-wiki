@@ -51,7 +51,7 @@ new information overtime.
    :caption: Events
 
    events/career_fair_dinner
-   events/how_to_cbc
+   events/cbc.rst
    events/minerama
    events/minerlan
    events/prodays

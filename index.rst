@@ -45,6 +45,7 @@ new information overtime.
    roles/treasurer
    roles/hack_chair
    roles/acmw_chair
+   roles/sec_chair
 
 .. toctree::
    :maxdepth: 2

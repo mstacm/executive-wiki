@@ -51,6 +51,7 @@ new information overtime.
    :maxdepth: 2
    :caption: Events
 
+   events/acm_donuts
    events/career_fair_dinner
    events/cbc.rst
    events/minerama

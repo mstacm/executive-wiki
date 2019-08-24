@@ -46,11 +46,12 @@ General Preperation
 
 Schedule
 -------------
-+ **9:50 am** - Send someone to the Puck / Havener to register for a table.
++ **9:45 am** - Send someone to the Puck / Havener to register for a table.
   Then, have them reserve the table(s) with a designator such as branding
   materials or table cloth. Try to get a spot by a main pathway or with high
-  visibility to students.
-+ **10:20 am** (2+ people) - Collect the promotional materials, retractable
+  visibility to students. **NOTE**: make sure you grab a table for both ACM and
+  ACM-W if they only allow 1 table for RSO.
++ **10:10 am** (2+ people) - Collect the promotional materials, retractable
   banner, tablecloth, and other advertising / branding items. Take them to where
   Minerama is being hosted.
 + **10:30 am** - Begin setting up the table.

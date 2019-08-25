@@ -42,16 +42,16 @@ Transition Steps
 
 
 Useful Information
-==================
+------------------
 
 Bitwarden
----------
+^^^^^^^^^
 + Username: sigsec@mst.edu
 + Password: Yellow Hollow Square (15 char) on password card
 
 
 Events
-------
+^^^^^^
 + CBC
 + August
 
@@ -96,7 +96,7 @@ Events
 	+ LANTAP
 
 Tips
-----
+^^^^
 + START PLANNING EVENTS EARLY
 
    + Flyers two weeks in advance

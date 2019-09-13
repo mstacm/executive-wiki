@@ -7,8 +7,9 @@ Scheduling Considerations
 -------------------------
 Scheduling events is usually straight forward, but there are a couple of
 considerations to keep in mind:
-1. **Large Class Times** - Classes such as Data Structures, Intro to
-   Programming, and Physics 2 often have large lecture sizes of ACM students
+
+1. **Large Class Times** - Classes such as Data Structures and Intro to
+   Programming often have large lecture sizes of ACM students
    that sometimes coincides with potential event locations / times. It may be
    wise to make a list of times at the beginning of the semester in which these
    times occurr so that you can schedule around it.

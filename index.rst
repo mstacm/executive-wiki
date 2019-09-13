@@ -24,6 +24,7 @@ new information overtime.
    :maxdepth: 2
    :caption: General Information
 
+   general/events
    general/marketing_and_branding
    general/sponsorship
 

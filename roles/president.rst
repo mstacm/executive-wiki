@@ -19,6 +19,10 @@ Roles and Responsibilities
   events. While this can be done by anyone, the President should make it a
   primary effort on how to innovate ACM whether through creating new events,
   updating old events, coming up with new ideas, or anything else.
++ **ACM Weekly Newsletter** - Sending out a weekly newsletter to students about
+  everything ACM has going on. Information on how to make this can be found at
+  :ref:`general-newsletter`.
+
 
 .. _roles-president-transition:
 
@@ -162,7 +166,6 @@ to over-communicate with everyone what is going on.
   for ways to improve for next semester.
 + **T-Shirt Design Contest** - Host the :ref:`events-tshirt_design_contest` at the
   end of the month into October. 
-
 
 October
 ^^^^^^^

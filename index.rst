@@ -26,6 +26,7 @@ new information overtime.
 
    general/events
    general/marketing_and_branding
+   general/newsletter
    general/sponsorship
 
 

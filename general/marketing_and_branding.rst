@@ -135,30 +135,18 @@ currently located in the **ACM office** in the **ACM** labeled drawer. Please
 properly fold the table cloth and put it back in this drawer after every use.
 
 
-ACM T-Shirts
-------------
+.. _general-marketing_and_branding-tshirts:
 
-Design
-^^^^^^
-To design the front of the shirt, ACM hosts a student design contest every year
-starting at the end of August. The contest should be finished by mid-September
-so that shirts can be ordered in a timely manner. However, if you are still
-waiting on sponsorship confirmation for logos on the shirt, this can and should
-be delayed. More information about running the design contest can be found in
-:ref:`events-tshirt_design_contest-header`.
+T-Shirts
+--------
 
-The back of the shirt is designed by the officers and should at minimum have:
+ACM T-Shirt
+^^^^^^^^^^^
+Information about the ACM T-Shirt Design can be found in
+:ref:`events-tshirt_design_contest`.
 
-1. Mention of the `ACM Website <https://acm.mst.edu>`_
-2. Logos of the sponsors
-
-Previous designs can be found in the below table:
-
-===========  ========================================= ============================  ==============================================================================
-Year         Vendor                                    Site Design                   Raw Design
-===========  ========================================= ============================  ==============================================================================
-2018 - 2019  `Custom Ink`_                             See old `Custom Ink`_ orders  `raw fs18 <https://www.figma.com/file/WKbFOiusMVxivbhtd8v8oqjW/ACM-T-Shirts>`_
-===========  ========================================= ============================  ==============================================================================
+Previous designs can also be found in
+:ref:`events-tshirt_design_contest-designs`.
 
 Vendors
 ^^^^^^^

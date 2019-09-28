@@ -160,6 +160,8 @@ to over-communicate with everyone what is going on.
   everyone who will be attending.
 + **Review Recruitment Procesess** - Check-in on how recruitment went and plan
   for ways to improve for next semester.
++ **T-Shirt Design Contest** - Host the :ref:`events-tshirt_design_contest` at the
+  end of the month into October. 
 
 
 October

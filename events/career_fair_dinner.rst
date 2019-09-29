@@ -41,10 +41,11 @@ Career Fair Day
 + **Touch Base** - Stop by each of the companies who said they were attending
   the talk and touch base. Thank them for saying the would come and make sure
   they don't have any final questions.
-+ **Placards** - Make placards for each representative of each company. Put a
-  table number at the top of each placard in sequential order or where they will
-  rotate to. This will allow companies to easily know where they need to go to
-  next. Examples can be found in `figma
++ **Placards** - Make placards for each representative of each company. The
+  placards will act as a marker to where each company representative will sit at
+  the beginning.  Put a table number at the top of each placard in sequential
+  order or where they will rotate to. This will allow companies to easily know
+  where they need to go to next. Examples can be found in `figma
   <https://www.figma.com/file/M6QFsvHTKDbqSzaJwq2jHb/ACM-Career-Fair-Dinner-(FS19)?node-id=0%3A1>`_.
     
 .. warning:: The placard example should not be followed exactly as it puts

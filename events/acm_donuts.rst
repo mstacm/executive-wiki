@@ -10,9 +10,15 @@ General Comments
 + It is recommended to host these on **Tuesday** since time between classes is
   longer and more students are likely to be on campus as it is the middle of the
   week.
-+ **Price Guidelines** - $1 for donuts and $.50 for coffee, but it is
-  recommended to change the price for promotions such as 'download our app for a
-  free donut'.
++ **Price Guidelines** - We have chosen to use a 'pay what you want' model for
+  donutes which means that students can pay anywhere from $0 to $100
+  for a donut. This will promote people to come up to the table to learn
+  about ACM events and activities, but also give them the possibility to help
+  donate and support the event to continue. The recommend price for students
+  would be $1 for donuts and $.50 for coffee, but it is recommended to change
+  the price for promotions such as 'download our app for a free donut'.
++ Make sure to email donut king at dkrolla@gmail.com to ask for bulk deals and
+  tell them that we are tax exempt.
 
 .. _events-acm_donuts-locations:
 
@@ -27,11 +33,8 @@ Suggested Locations
 
 Agenda
 ------
-+ **8:45am** - Pick up donuts at Donut King (or another donut provider)
-+ **8:55am** - Bring a table, ACM Donut sign, card reader, and donuts to one of
++ **10:15am** - Pick up donuts at Donut King (or another donut provider).
++ **10:25am** - Bring a table, ACM Donut sign, card reader, and donuts to one of
   the :ref:`events-acm_donuts-locations`.
-+ **9:00am** - Begin selling donuts.
-+ **9:40am** - Take a break as class will have started (may potentially involve
-    packing up)
-+ **10:20am** - End break as class will end soon (may potentially involve setup)
++ **10:30m** - Begin selling donuts.
 + **11:00pm** - Stop selling donuts.

@@ -42,6 +42,7 @@ new information overtime.
    :caption: Role Documentation
 
    roles/president
+   roles/vpe
    roles/vpi
    roles/treasurer
    roles/hack_chair

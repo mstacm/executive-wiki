@@ -1,3 +1,5 @@
+.. _events-minerlan:
+
 MinerLAN
 ========
 **MinerLAN** is a LAN party/social that ACM hosts every semester on the Friday

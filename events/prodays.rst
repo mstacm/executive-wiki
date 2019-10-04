@@ -1,3 +1,5 @@
+.. _events-prodays:
+
 PRO Days
 ========
 **PRO Days** are for incoming students (usually freshmen) to come see S&T on a
